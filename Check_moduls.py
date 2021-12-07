@@ -175,13 +175,13 @@ def work_with_counterparty():
 
 
 start_work_red_bridge()
-go_to_client()
-create_client()
-work_with_about_client()
+# go_to_client()
+# create_client()
+# work_with_about_client()
 # work_with_contacts()
 # work_with_address()
 # work_with_potential()
 # work_with_communication()
 # work_with_park()
-work_with_counterparty()
+# work_with_counterparty()
 print("тест прошёл успешно =)")
